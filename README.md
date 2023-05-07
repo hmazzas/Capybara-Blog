@@ -53,7 +53,7 @@ If user that is not the admin and tries to edit or create a post:
 ![image](https://user-images.githubusercontent.com/124715795/236663264-a5ba09b3-10d9-4b7b-8606-9ca73b9058c5.png)
 ![image](https://user-images.githubusercontent.com/124715795/236663308-ec722ff9-54fc-44a3-8e9e-c4b57ef7d93d.png)
 
-### Using DBBrowser to see the tables in the Database
+### Using DB Browser to see the tables in the Database
 ![image](https://user-images.githubusercontent.com/124715795/236663557-ba999442-c184-42e7-a6ee-e42dcd146280.png)
 ![image](https://user-images.githubusercontent.com/124715795/236663573-eeda8727-cf18-4043-8b67-284e28437dfd.png)
 ![image](https://user-images.githubusercontent.com/124715795/236663604-33ae6b7c-decf-4074-82c1-9869482bb730.png)
