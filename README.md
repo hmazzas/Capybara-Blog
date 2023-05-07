@@ -1,5 +1,5 @@
 # Blog
-The key concepts in the projetc where:
+Key concepts:
 
 Basic HTML and CSS (Bootstrap);
 
@@ -10,6 +10,7 @@ FlaskFramework - Basic Functionalities;
 FlaskLogin -  Authentication
 
 Python Decorators
+
 
 
 ## The project
