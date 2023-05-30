@@ -12,7 +12,7 @@ from functools import wraps
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = ""
 ckeditor = CKEditor(app)
 Bootstrap(app)
 
@@ -22,7 +22,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
 ##CONFIG LOGIN
-app.secret_key = "d34c179da4a6a179e5200c7c23e6c9cf5f484063afe33db9b53fe087d9382a2a"
+app.secret_key = ""
 login_manager = LoginManager()
 login_manager.init_app(app)
 login_manager.login_view = 'login'
